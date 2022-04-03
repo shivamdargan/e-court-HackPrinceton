@@ -1,3 +1,10 @@
+```
+ .env file is required to run the above appliation in the root directory and the enviroment should contain the following information :
+- PORT NUMBER
+- MONGO_URI CONNECTION STRING
+- SECRET_KEY - SOMETHING RANDOM
+- GEOCODER - API SECRET KEY
+```
 ## Inspiration ⛹️‍♂️
 Regularly courts are getting many cases and currently it is becoming challenging to prioritize those cases.There are about 73,000 cases pending before the Supreme Court and about 44 million in all the courts of India. Cases that have been in the courts for more than 30 years, as of January 2021. A software/algorithm should be developed for prioritizing and allocations of dates to the cases based on the following parameters: 
 - Time of filing of chargesheet 
