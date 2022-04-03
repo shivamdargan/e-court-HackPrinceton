@@ -35,9 +35,5 @@ Being in a team and working under such a strict deadline along with having exams
  - Filtering of cases and assignment on the basis of different type of judges.
  - Increasing the accuracy of our existing Machine Learning model.
 
-## Discord Usernames:
-- Shivam Dargan - Shivam#4488 
-- Aman Kumar - 1Man#9977 
-- Nikhil Bakshi - nikhilbakshi#8994 
-- Bakul Gupta - Bakul Gupta#5727
+
 
