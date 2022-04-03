@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.nav-main2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10vh;
+    /* background-color: rgba(255, 255, 255, 0.096); */
+    /* background-color: rgba(0, 0, 0, 0.247); */
+    color: black;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    padding-top: 16px;
+}
+
+.nav-b{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 10vh;
+    /* background-color: rgba(255, 255, 255, 0.096); */
+    /* background-color: rgba(0, 0, 0, 0.247); */
+    color: black;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    padding-top: 16px;
+}
+
+.nav-links2{
+    position: absolute;
+    right: 0;
+    align-items: right;
+    margin-right: 150px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-links2 a{
+    margin: 16px 32px;
+    font-size: 28px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-b a{
+    color: black;
+}
+.nav-b .signup-btn{
+    color: white;
+}
+
+.signup-btn{
+    align-items: center;
+    justify-content: center;
+    background: #C89A69;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 10px;
+
+}

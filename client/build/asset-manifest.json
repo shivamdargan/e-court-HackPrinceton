@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bff5ce00.css",
+    "main.js": "/static/js/main.183d39b2.js",
+    "static/js/787.96702559.chunk.js": "/static/js/787.96702559.chunk.js",
+    "static/media/landing_pix.png": "/static/media/landing_pix.cc783fad8360d2c06bc3.png",
+    "static/media/signup.png": "/static/media/signup.b271cf4f8e511c3c9f59.png",
+    "static/media/login.png": "/static/media/login.210eaabc724a54f007b3.png",
+    "static/media/rafikicalendar.png": "/static/media/rafikicalendar.f43bd089dd5487317c22.png",
+    "static/media/rafikiprioritise.png": "/static/media/rafikiprioritise.444d5135f6e051da88bb.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bff5ce00.css.map": "/static/css/main.bff5ce00.css.map",
+    "main.183d39b2.js.map": "/static/js/main.183d39b2.js.map",
+    "787.96702559.chunk.js.map": "/static/js/787.96702559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff5ce00.css",
+    "static/js/main.183d39b2.js"
+  ]
+}

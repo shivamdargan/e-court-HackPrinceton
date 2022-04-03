@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.stats-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #484746;
+    height: 50vh;
+    width: 100%;
+}
+
+.stats-card{
+    margin: 0px 20px;
+    width: 32%;
+    height: 80%;
+    background-color: #656565;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.stats-num{
+    color: white;
+    font-size: 80px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 600;
+}
+
+.stats-name{
+    color: white;
+    font-size: 30px;
+}

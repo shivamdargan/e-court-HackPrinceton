@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    width: 100%;
+}
+
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    color: white;
+    /* position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0; */
+}
+.sidenav a{
+    text-decoration: none;
+}
+
+.dashboard-right{
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    width: 80%;
+    padding-top: 80px;
+}
+
+.logosection{
+    background-color: white;
+    width: 100%;
+    margin: 16px auto;
+}
+
+.linkssection{
+    background-color: #484746;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    border-radius: 0px 24px 0px 0px;
+    padding-top: 24px;
+}
+
+.logout{
+    justify-self:auto;
+
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    margin: 24px;
+    margin-left: 44px;
+    text-align: start;
+}
+
+.link a{
+    color: white;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.calendar-section{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50%;
+    margin-top: 0px;
+}
+
+.welcome{
+    width: 30%;
+    padding-left: 24px;
+}
+
+.welcome-info{
+    border-right: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: start;
+    font-family: 'Montserrat', sans-serif;
+}
+.welcome-info h1{
+    font-size: 64px;
+    color: #C89A69;
+    margin: 0%;
+}
+.welcome-info h3{
+    font-size: 32px;
+    margin: 8px 0px;
+}
+.welcome-info p{
+    font-size: 24px;
+    margin: 0%;
+}
+
+.welcome-ops{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 32px;
+}
+.welcome-ops div{
+    margin-bottom: 6px;
+}
+
+/* .welcome-btn button{
+    height: 20px;
+} */
+
+.calendar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    /* background-color: #484746; */
+}
+
+.calendar-info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.calendar-info p{
+    /* margin: 0; */
+    margin-left: 200px;
+    margin-bottom: 0;
+    color: #7A7A79;
+}
+
+.calendar-info h1{
+    margin-right: 200px;
+    margin-bottom: 0;
+}
+
+.calendar-box{
+    display: flex;
+    height: 90%;
+    width: 90%;
+    background-color: #F8F8F8;
+    border-radius: 10px;
+}
+
+.newcases{
+    width: 50%;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.newcases-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F8F8F8;
+    height: 35vh;
+}
+
+.newcases-head{
+    display: flex;
+}
+
+.newcases-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #E1C7AA;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.newcases-card p{
+    margin: 0;
+    margin-right: 50px;
+    margin-left: 10px;
+}
